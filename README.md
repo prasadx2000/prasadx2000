@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prasadx2000
-- 👀 I’m interested in game development and cyber security
+- 👀 I’m interested in 3d web development and game development
 - 🌱 I’m currently learning M.Sc. in Computer Science
-- 💞️ I’m looking to collaborate on Game development
+- 💞️ I’m looking to collaborate on Three.js
 - 📫 How to reach me .. prasadranjansikdar11@gmail.com
 - 😄 Pronouns: he/him
 
